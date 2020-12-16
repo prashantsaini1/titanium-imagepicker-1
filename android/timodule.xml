@@ -3,7 +3,7 @@
 	<android xmlns:android="http://schemas.android.com/apk/res/android">
 	    	<manifest>
     		<application>
-				<activity android:name="ti.imagepicker.TiMatisseActivity" android:configChanges="screenSize|density" />
+				<activity android:name="ti.imagepicker.TiMatisseActivity" android:configChanges="screenSize|density" android:screenOrientation="userPortrait" />
     		</application>
     	</manifest>
 	</android>

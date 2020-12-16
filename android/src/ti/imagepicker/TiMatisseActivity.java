@@ -10,7 +10,8 @@ import com.zhihu.matisse.engine.impl.GlideEngine;
 import com.zhihu.matisse.internal.entity.CaptureStrategy;
 
 
-public class TiMatisseActivity extends Activity {		
+public class TiMatisseActivity extends Activity {
+    /*
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -40,4 +41,5 @@ public class TiMatisseActivity extends Activity {
         setResult(resultCode, data);
         finish();
     }
+    */
 }
